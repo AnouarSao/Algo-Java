@@ -18,6 +18,7 @@ public class exo21 {
 
         while(true){
           String langageAInserer = input.nextLine();
+          //  if(langageAInserer.isBlank() && !langage.isEmpty())
           if(langageAInserer.equals("quit")){
               break;
           }
