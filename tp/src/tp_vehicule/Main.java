@@ -4,11 +4,11 @@ public class Main {
     public static void main(String[] args) {
 
         Voiture voiture1 = new Voiture(2000, 2000 );
-        Camion camion1 = new Camion( 1995, 50000);
-        Voiture voiture2 = new Voiture(2000, 2000 );
-        Camion camion2 = new Camion( 1995, 50000);
-        Voiture voiture3 = new Voiture(2000, 2000 );
-        Camion camion3 = new Camion( 1995, 50000);
+        Camion camion1 = new Camion( 2001, 3000);
+        Voiture voiture2 = new Voiture(2002, 4000 );
+        Camion camion2 = new Camion( 2003, 5000);
+        Voiture voiture3 = new Voiture(2004, 6000 );
+        Camion camion3 = new Camion( 2005, 70000);
 
         System.out.println("-------------------------------------------------------------");
         voiture1.demarrer();
