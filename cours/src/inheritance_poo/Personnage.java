@@ -27,4 +27,12 @@ public abstract class Personnage {
     }
 
     public abstract void rencontrer();
+
+    @Override
+    public String toString() {
+        return "Personnage{" +
+                "nom='" + nom + '\'' +
+                ", dureeDeVie=" + dureeDeVie +
+                '}';
+    }
 }

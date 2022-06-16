@@ -23,4 +23,5 @@ public class Guerrier extends Personnage {
     public void rencontrer() {
         System.out.println("Je suis un guerrier,et je vais te tuer");
     }
+
 }
