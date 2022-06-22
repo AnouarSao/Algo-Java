@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="RunManager" selected="Application.Main">
+  <component name="ChangeListManager">
+    <list default="true" id="2962d402-a671-40da-a2dd-36df3aeb7162" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/tp/src/tp_validation/exo10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/src/tp_validation/exo10/Tirelire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/src/tp_validation/exo11/Auteur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/src/tp_validation/exo11/Bibliotheque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/src/tp_validation/exo11/Exemplaire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/src/tp_validation/exo11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/src/tp_validation/exo11/Oeuvre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/src/tp_validation/exo7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/src/tp_validation/exo8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tp/src/tp_validation/exo9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/tp/tp_validation/exo6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tp/tp_validation/exo6/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp/src/tp_validation/exo6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/tp/src/tp_validation/exo6/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AhZTxTEtMwddgVI4uaeSG8ptaq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sanou/Anouar-Sao/perso/poe_java/M2i/Formation/Algo-Java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.tp_validation.exo11.Main">
     <configuration name="Affichage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cours_bases_java.Affichage" />
       <module name="cours" />
@@ -27,11 +73,75 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tp_validation.exo10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tp_validation.exo10.Main" />
+      <module name="tp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tp_validation.exo10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tp_validation.exo11.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tp_validation.exo11.Main" />
+      <module name="tp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tp_validation.exo11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tp_validation.exo6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tp_validation.exo6.Main" />
+      <module name="tp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tp_validation.exo6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tp_validation.exo11.Main" />
+        <item itemvalue="Application.tp_validation.exo10.Main" />
+        <item itemvalue="Application.tp_validation.exo6.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Affichage" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2962d402-a671-40da-a2dd-36df3aeb7162" name="Changes" comment="" />
+      <created>1655463788506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655463788506</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
